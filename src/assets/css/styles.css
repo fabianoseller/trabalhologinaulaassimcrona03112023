@@ -1,6 +1,6 @@
 section{
     display: flex;
-    width: 600px;
+    width: 800px;
     height: 450;
 }
 section img{
@@ -22,4 +22,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 50vh;
+    background: url('../images/aranha0.jpg') no-repeat;
+     background-size: cover;
+    background-position: center;
+    
 }
